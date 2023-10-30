@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="dev-chtdxiyk0gihtx5m.us.auth0.com"
       clientId="WGBBIsrG4rzKwq1PjvO2JSJ1jiZGPU4v"
       authorizationParams={{
-        redirect_uri: "http://localhost:5173"
+        redirect_uri: "https://real-estate-full-stack-mern-project-teal.vercel.app"
       }}
       audience="http://localhost:8000"
       scope="openId profile email"
